@@ -1,5 +1,5 @@
 # PrescribedApp
-Making an app for Dell Med
+Making an app for Dell Medical School
 
 The purpose of this app is to allow Doctors to "prescribe" it as a form of information to their patients. 
 as it stands currently, there is a lot of misinformation out there for patients to stumble upon, and become misinformed about their treatment. 
